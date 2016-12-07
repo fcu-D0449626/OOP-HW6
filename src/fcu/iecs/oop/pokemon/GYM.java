@@ -33,7 +33,7 @@ public class GYM {
 						winA++;
 					else
 						winB++;}}
-		}
+		} 
 		if(winA>winB){
 					p1.level++;
 					System.out.println("Winner is ["+p1.Playername+"]and his/her level becomes ["+p2.level+"].");

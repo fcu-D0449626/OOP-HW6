@@ -13,7 +13,7 @@ public class Main {
 	    player1.setPokemons(pkms1);
 	    
 	    Player player2 = new Player("Player Two");
-
+ 
 	    Pokemon pkm21 = new Pokemon("Seel", PokemonType.WATER, 432);
 	    Pokemon pkm22 = new Pokemon("Gyarados", PokemonType.WATER, 987);
 	    Pokemon pkm23 = new Pokemon("Horsea", PokemonType.WATER, 89);
