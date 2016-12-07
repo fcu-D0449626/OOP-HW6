@@ -17,7 +17,7 @@ public class Main {
 	    Pokemon pkm21 = new Pokemon("Seel", PokemonType.WATER, 432);
 	    Pokemon pkm22 = new Pokemon("Gyarados", PokemonType.WATER, 987);
 	    Pokemon pkm23 = new Pokemon("Horsea", PokemonType.WATER, 89);
-
+ 
 	      Pokemon[] pkms2 = { pkm21, pkm22, pkm23 };
 	    player2.setPokemons(pkms2);
 	    

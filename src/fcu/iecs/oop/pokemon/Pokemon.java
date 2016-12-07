@@ -20,7 +20,7 @@ public class Pokemon {
     public void setcp(int CP){
     	cp=CP;
     }
-    
+     
     public Pokemon(String name,PokemonType type,int CP){
     	super();
         this.name=name;

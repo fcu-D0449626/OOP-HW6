@@ -19,7 +19,7 @@ public class Player {
 				
 	public Pokemon[] getPokemon(){
 		return pokemons;
-								}
+			 					}
 	public void setPokemons(Pokemon[] pokemons){
 		this.pokemons = pokemons;
 								}
